@@ -1,8 +1,11 @@
 ## Spring 2022 Schedule
 
 February 2:  Introduction  
-February 8:  What Is Economics?  
-February 10:  Budget Sets  
+
+February 8:  [What Is Economics?](https://pjakiela.hithub.io/ECON251/1-what-is-econ.html)  
+
+February 10:  [Budget Sets](https://pjakiela.hithub.io/ECON251/2-budget-sets.html)  
+
 February 15:  Demand Functions  
 February 17:  Income & Substitution Effects  
 February 22:  Preferences & Utility, Part 1  
