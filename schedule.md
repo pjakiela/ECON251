@@ -2,9 +2,9 @@
 
 February 2:  Introduction  
 
-February 8:  [What Is Economics?](https://pjakiela.hithub.io/ECON251/1-what-is-econ.html)  
+February 8:  [What Is Economics?](https://pjakiela.github.io/ECON251/1-what-is-econ.html)  
 
-February 10:  [Budget Sets](https://pjakiela.hithub.io/ECON251/2-budget-sets.html)  
+February 10:  [Budget Sets](https://pjakiela.github.io/ECON251/2-budget-sets.html)  
 
 February 15:  Demand Functions  
 February 17:  Income & Substitution Effects  
