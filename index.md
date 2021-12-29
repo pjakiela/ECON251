@@ -1,1 +1,3 @@
-## ECON 251
+# Price and Allocation Theory
+
+## Spring 2022
