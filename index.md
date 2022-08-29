@@ -1,5 +1,7 @@
 # Course Overview
 
+!(khoameme.jpg)
+
 ECON 251 ("Price and Allocation Theory") introduces students to the microeconomic approach to the study of human behavior, with a
 focus on individual decision-making and strategic interactions. We study the behavior
 of individuals and households in a variety of consumption settings (including buying goods and services,
