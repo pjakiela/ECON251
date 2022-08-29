@@ -32,7 +32,7 @@ going into the course if you hope to do well.  Students who have not
 completed or placed out of MATH 130 should not enroll in the course.  Even 
 if you have completed the necessary prerequisites, you may wish to delay taking ECON 251 until you have built a strong foundation 
 in calculus and probability/statistics.  Familiarity with multivariable calculus is helpful but not required as we will be 
-using partial derivatives throughout the course.  Some familiarity with statistics and probability is very helpful.  Most 
+using partial derivatives throughout the course.  Some familiarity with statistics and probability is also very helpful.  Most 
 Williams students take ECON 251 in their second year, by which time they have typically completed STAT 161.  Students who have not completed or 
 placed out of at least one college-level stats course may wish to delay taking ECON 251 until they have built a stronger foundation in 
 probability and statistics.  
