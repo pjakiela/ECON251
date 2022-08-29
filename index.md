@@ -1,7 +1,5 @@
 # Course Overview
 
-![Khoa's meme](khoameme.jpg)
-
 ECON 251 ("Price and Allocation Theory") introduces students to the microeconomic approach to the study of human behavior, with a
 focus on individual decision-making and strategic interactions. We study the behavior
 of individuals and households in a variety of consumption settings (including buying goods and services,
@@ -17,7 +15,14 @@ interested consumers, etc. - are wrong in important, substantive ways. Our focus
 this course is on learning to use the mathematical tools of economics to build testable,
 empirically valid models of individual choices in a range of settings. 
 
+<br>
+
 ## Mathematical Preparation
+
+The math prereqs for ECON 251, in meme form, courtesy of University of Minnesota 
+PhD student and meme guru [Khoa Vu](https://sites.google.com/view/khoavu-umn/home):
+
+![Khoa's meme](khoameme.jpg)
 
 This course is hard.  ECON 251 may well be the hardest course you take at Williams (that is what past students 
 have said).  Students who have not completed or placed out of MATH 130 should not enroll in the course.  Even 
