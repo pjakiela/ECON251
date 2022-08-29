@@ -24,8 +24,12 @@ PhD student and meme guru [Khoa Vu](https://sites.google.com/view/khoavu-umn/hom
 
 ![Khoa's meme](khoameme.jpg)
 
-This course is hard.  ECON 251 may well be the hardest course you take at Williams (that is what past students 
-have said).  Students who have not completed or placed out of MATH 130 should not enroll in the course.  Even 
+This course is hard.  ECON 251 may well be the hardest course 
+you take at Williams (that is what some of my past students 
+have said).  It involves a lot of math, particularly calculus.  You will take **a lot** of derivates and 
+solve an extraordinary number of constrained optimization problems.  You need to be comfortable with calculus 
+going into the course if you hope to do well.  Students who have not 
+completed or placed out of MATH 130 should not enroll in the course.  Even 
 if you have completed the necessary prerequisites, you may wish to delay taking ECON 251 until you have built a strong foundation 
 in calculus and probability/statistics.  Familiarity with multivariable calculus is helpful but not required as we will be 
 using partial derivatives throughout the course.  Some familiarity with statistics and probability is very helpful.  Most 
