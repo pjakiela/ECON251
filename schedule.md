@@ -1,5 +1,7 @@
 ## Fall 2022 Class Schedule
 
+| Date | Topic |
+|---------|---------------|
 | Sept. 9 | Intro Meeting |
 
 September 9:  Introduction  
