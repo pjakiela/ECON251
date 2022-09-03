@@ -1,6 +1,8 @@
-## Spring 2022 Schedule
+## Fall 2022 Class Schedule
 
-February 2:  Introduction  
+| Sept. 9 | Intro Meeting |
+
+September 9:  Introduction  
 
 February 8:  [What Is Economics?](https://pjakiela.github.io/ECON251/1-what-is-econ.html)  
 
