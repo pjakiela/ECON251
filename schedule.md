@@ -1,14 +1,14 @@
 ## Fall 2022 Class Schedule
 
 | Date | Topic |
-|---------|---------------|
-| Sept. 9 | Intro Meeting |
+|-|--|
+| September 9 (Friday) | Intro Meeting |
+| September 11 | Reading:  _The Economic Approach to Human Behavior_, Chapter 1 |
+| September 12 | [What Is Economics?](https://pjakiela.github.io/ECON251/1-what-is-econ.html) |
+| September 14 | [Budget Sets](https://pjakiela.github.io/ECON251/2-budget-sets.html) |
+| September 16 | Problem Set 1 due |
+| September 18 | Reading:  "Giffen Goods" |
 
-September 9:  Introduction  
-
-February 8:  [What Is Economics?](https://pjakiela.github.io/ECON251/1-what-is-econ.html)  
-
-February 10:  [Budget Sets](https://pjakiela.github.io/ECON251/2-budget-sets.html)  
 
 February 15:  Demand Functions  
 February 17:  Income & Substitution Effects  
