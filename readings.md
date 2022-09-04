@@ -2,12 +2,15 @@
 
 _Reading packets are available from the ECON department office._
 
-_The Economic Approach to Human Behavior_, Chapter 1
+### _The Economic Approach to Human Behavior_, Chapter 1
 
-Giffen Behavior and Subsistence Consumption
+- Reading guide
+- Comprehension questions (due 9/11)
 
-The Distributional Preferences of an Elite
+### Giffen Behavior and Subsistence Consumption
 
-Paying Not to Go to the Gym
+### The Distributional Preferences of an Elite
 
-The Market for Lemons
+### Paying Not to Go to the Gym
+
+### The Market for Lemons
