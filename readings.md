@@ -7,17 +7,17 @@ _Reading packets are available from the ECON department office._
 - Reading guide
 - Comprehension questions (due 9/11)
 
-### Giffen Behavior and Subsistence Consumption
+### [Giffen Behavior and Subsistence Consumption](https://www.jstor.org/stable/29730133)
 
 - Reading guide
 - Comprehension questions (due 9/18)
 
-### The Distributional Preferences of an Elite
+### [The Distributional Preferences of an Elite](https://www.jstor.org/stable/24749332)
 
 - Reading guide
 - Comprehension questions (due 10/23)
 
-### Paying Not to Go to the Gym
+### [Paying Not to Go to the Gym](https://www.jstor.org/stable/30034067)
 
 - Reading guide
 - Comprehension questions (due 10/30)
