@@ -1,6 +1,6 @@
 # Required Readings
 
-_Reading packets are available from the ECON department office.  The last four readings can also be accessed via jstor._
+_Reading packets are available from the ECON department office._
 
 ### _The Economic Approach to Human Behavior_, Chapter 1
 
