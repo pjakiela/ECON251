@@ -22,7 +22,7 @@ _Reading packets are available from the ECON department office._
 - Reading guide
 - Comprehension questions (due 10/30)
 
-### The Market for Lemons
+### [The Market for Lemons](https://www.jstor.org/stable/1879431)
 
 - Reading guide
 - Comprehension questions (due 11/20)
