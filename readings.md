@@ -1,4 +1,4 @@
-Required Readings
+# Required Readings
 
 _Reading packets are available from the ECON department office._
 
