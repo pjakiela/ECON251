@@ -5,7 +5,7 @@ Thanksgiving).  The timing of 24-hour take-home exams will be announced in class
 assignments are due on Sundays.  Assignments are due by 11:59 PM._
 
 | Date | Assignment |
-|--------------|--|
+|---------------------|--|
 | September 11 | Reading:  _The Economic Approach to Human Behavior_, Chapter 1 |
 | September 16 | Problem Set 1 |
 | September 18 | Reading:  "Giffen Behavior and Subsistence Consumption" |
