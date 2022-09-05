@@ -3,7 +3,7 @@
 _Problem sets are due on Fridays (except for Problem Set 10, which is due the Tuesday before 
 Thanksgiving).  Other assignments are due on Sundays.  Assignments are due by 11:59 PM._
 
-| Date | Assignments |
+| Date | Assignment |
 |---|--|
 | September 11 | Reading:  _The Economic Approach to Human Behavior_, Chapter 1 |
 | September 16 | Problem Set 1 |
@@ -23,7 +23,7 @@ Thanksgiving).  Other assignments are due on Sundays.  Assignments are due by 11
 | November 18 | Problem Set 9 |
 | October 30 | Reading:  "The Market for Lemons" |
 | November 22 | Problem Set 10 |
-| December 2 | Problem Set 11 |
+| December 2 | Problem Set 11 (optional) |
 | **December 7-8** | **Take-Home Exam 2** |
-| December 15 | Modeling Exercise 3 |
+| December 15 | Modeling Exercise 3 (optional) |
 
