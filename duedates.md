@@ -1,6 +1,6 @@
 # Fall 2022 Assignment Due Dates
 
-_Problem sets are due on Fridays (except for Problem Set 10, which is due the Tiesday before 
+_Problem sets are due on Fridays (except for Problem Set 10, which is due the Tuesday before 
 Thanksgiving).  Other assignments are due on Sundays.  Assignments are due by 11:59 PM._
 
 | Date | Assignments |
