@@ -4,7 +4,7 @@ _Problem sets are due on Fridays (except for Problem Set 10, which is due the Tu
 Thanksgiving).  Other assignments are due on Sundays.  Assignments are due by 11:59 PM._
 
 | Date | Assignment |
-|---|--|
+|--------------|--|
 | September 11 | Reading:  _The Economic Approach to Human Behavior_, Chapter 1 |
 | September 16 | Problem Set 1 |
 | September 18 | Reading:  "Giffen Behavior and Subsistence Consumption" |
