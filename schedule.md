@@ -14,20 +14,18 @@
 | **October 10** | **Reading Period:  NO CLASS** |
 | October 12 | Labor Supply |
 | **October 17** | **Exam Review** |
-| **October 19** | **Take-Home Exam:  NO CLASS** |
-
-March 10: Revealed Preference  
-March 15:  Exam Review  
-March 17:  Exam 1  
-April 5:  Risk Attitudes  
-April 7:  Intertemporal Tradeoffs  
-April 12:  Production, Part 1  
-April 14:  Production, Part 2  
-April 19:  Monopoly  
-April 21:  Equilibrium in an Exchange Economy   
-April 26:  Imperfect Information  
-April 28:  Game Theory, Part 1  
-May 3:  Game Theory, Part 2  
-May 5:  Game Theory, part 3  
-May 10:  Exam Review  
-May 12:  Exam 2  
+| **October 19** | **Take-Home Exam 1:  NO CLASS** |
+| October 24 | Revealed Preference |
+| October 26 | Risk Attitudes |
+| October 31 | Risk Attitudes / Intertemporal Tradeoffs |
+| November 2 | Intertemporal Tradeoffs |
+| November 7 | Production, Part 1 |
+| November 9 | Production, Part 2 |
+| November 14 | Monopoly |
+| November 16 | Competitive Equilibrium | 
+| November 21 | Imperfect Information |
+| **November 22** | **Thanksgiving:  NO CLASS** |
+| November 28 | Game Theory, Part 1 |
+| November 30 | Game Theory, part 2 | 
+| **December 5** | **Exam Review** |
+| **December 7** | **Take-Home Exam 2:  NO CLASS** |
