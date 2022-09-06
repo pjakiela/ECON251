@@ -14,7 +14,7 @@
 | **October 10** | **Reading Period:  NO CLASS** |
 | October 12 | Labor Supply |
 | **October 17** | **Exam Review** |
-| **October 19** | **Take-Home Exam 1:  NO CLASS** |
+| **October 19-20** | **Take-Home Exam 1:  NO CLASS** |
 | October 24 | Revealed Preference |
 | October 26 | Risk Attitudes |
 | October 31 | Risk Attitudes / Intertemporal Tradeoffs |
@@ -28,4 +28,4 @@
 | November 28 | Game Theory, Part 1 |
 | November 30 | Game Theory, part 2 | 
 | **December 5** | **Exam Review** |
-| **December 7** | **Take-Home Exam 2:  NO CLASS** |
+| **December 7-8** | **Take-Home Exam 2:  NO CLASS** |
