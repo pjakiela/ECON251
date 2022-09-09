@@ -1,4 +1,4 @@
-## Fall 2022 Lecture Schedule
+# Fall 2022 Lecture Schedule
 
 | Date | Topic |
 |-----|-----|
