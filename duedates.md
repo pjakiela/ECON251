@@ -2,7 +2,7 @@
 
 _Problem sets are due on Fridays (except for Problem Set 10, which is due the Tuesday before 
 Thanksgiving).  The timing of 24-hour take-home exams will be announced in class.  Other 
-assignments are due on Sundays.  Assignments are due by 11:59 PM._
+assignments are due on Sundays.  Assignments are due by 11:00 PM._
 
 | Date | Assignment |
 |---------------------|--|
