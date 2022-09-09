@@ -1,10 +1,10 @@
 # Required Readings
 
-_Reading packets are available from the ECON department office._
+_Reading packets will be handed out in class._
 
 ### _The Economic Approach to Human Behavior_, Chapter 1
 
-- Reading guide
+- [Reading guide](ECON251-Becker-reading-guide.pdf)
 - Comprehension questions (due 9/11)
 
 ### [Giffen Behavior and Subsistence Consumption](https://www.jstor.org/stable/29730133)
