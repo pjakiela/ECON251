@@ -6,9 +6,9 @@
 
 _The Economic Approach to Human Behavior_ by Gary Becker, Chapter 1 
 
-Reading Guide
+[Reading Guide:  _The Economic Approach to Human Behavior_](ECON251-Becker-reading-guide.pdf)
 
-Reading Response
+[Reading Response Assignment](https://www.gradescope.com/courses/432869/assignments/2243726/)
 
 <br>
 
