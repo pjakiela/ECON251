@@ -5,12 +5,12 @@ _Reading packets will be handed out in class._
 ### _The Economic Approach to Human Behavior_, Chapter 1
 
 - [Reading guide](ECON251-Becker-reading-guide.pdf)
-- Comprehension questions (due 9/11)
+- [Reading Response](https://www.gradescope.com/courses/432869/assignments/2243726/) (due 9/11)
 
 ### [Giffen Behavior and Subsistence Consumption](https://www.jstor.org/stable/29730133)
 
-- Reading guide
-- Comprehension questions (due 9/18)
+- [Reading guide](ECON251-Jensen-Miller-reading-guide-2022-09-09.pdf)
+- Reading Response (due 9/18)
 
 ### [The Distributional Preferences of an Elite](https://www.jstor.org/stable/24749332)
 
