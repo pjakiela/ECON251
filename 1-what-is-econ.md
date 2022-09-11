@@ -14,7 +14,7 @@ _The Economic Approach to Human Behavior_ by Gary Becker, Chapter 1
 
 ## Lecture Notes
 
-
+[What Is Economics?](1-math-review-notes-2022-09-10.pdf) 
 
 <br>
 
@@ -26,5 +26,9 @@ _The Economic Approach to Human Behavior_ by Gary Becker, Chapter 1
 
 [Charles M. Grinstead and J. Laurie Snell's _Introduction to Probability_ (a whole stats textbook)](https://math.dartmouth.edu/~prob/prob/prob.pdf)  
 
-[Joseph K. Blitzstein and Jessica Hwang's _Introduction to Probability_ (another whole stats textbook)](http://probabilitybook.net/)
+[Joseph K. Blitzstein and Jessica Hwang's _Introduction to Probability_ (another whole stats textbook)](http://probabilitybook.net/)  
+
+## Further Reading
+
+[Planet Money:  What Is the Most Useful Idea in Economics?](What is the most useful idea in economics?)
 
