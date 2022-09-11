@@ -28,6 +28,8 @@ _The Economic Approach to Human Behavior_ by Gary Becker, Chapter 1
 
 [Joseph K. Blitzstein and Jessica Hwang's _Introduction to Probability_ (another whole stats textbook)](http://probabilitybook.net/)  
 
+<br>
+
 ## Further Reading
 
 [Planet Money:  What Is the Most Useful Idea in Economics?](What is the most useful idea in economics?)
