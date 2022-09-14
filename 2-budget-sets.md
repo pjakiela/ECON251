@@ -14,5 +14,5 @@ Angus Deaton and John Muellbauer, Section 1.1
 
 ### Math Review Resources 
 
-[Tips on How to Write a Proof](http://www.math.lsa.umich.edu/~jchw/PrimerOnProof.pdf)
+[Tips on How to Write a Proof](http://www.math.lsa.umich.edu/~jchw/PrimerOnProof.pdf)  
 _from Professor Jenny Wilson at the University of Michigan Math Departent_
