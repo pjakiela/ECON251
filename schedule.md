@@ -6,7 +6,7 @@
 | September 12 | [What Is Economics?](https://pjakiela.github.io/ECON251/1-what-is-econ.html) |
 | September 14 | [Budget Sets](https://pjakiela.github.io/ECON251/2-budget-sets.html) |
 | September 19 | [Demand Funtions, Part 1](https://pjakiela.github.io/ECON251/3-demand.html) |
-| September 21 | [Demand Funtions, Part 2]((https://pjakiela.github.io/ECON251/3-demand.html) |
+| September 21 | [Demand Funtions, Part 2](https://pjakiela.github.io/ECON251/3-demand.html) |
 | September 26 | Preferences & Utility, Part 1 |
 | September 28 | Preferences & Utility, Part 2 |
 | October 3 | Utility Maximization, Part 1 |
