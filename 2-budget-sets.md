@@ -1,5 +1,7 @@
 # Budget Sets  
 
+<br>
+
 ### Optional Readings  
 
 [_Models in Microeconomic Theory_](https://www.openbookpublishers.com/books/10.11647/obp.0211) by 
@@ -8,9 +10,13 @@ Martin J. Osborne and Ariel Rubinstein, Section 5.1
 [_Economics and Consumer Behavior_](https://doi-org.ezproxy2.williams.edu/10.1017/CBO9780511805653) by 
 Angus Deaton and John Muellbauer, Section 1.1  
 
+<br>
+
 ### Lecture  
 
-[Budget Sets](2-budget-set-notes-2022-09-14.pdf)
+[Budget Sets](2-budget-sets-notes-2022-09-14.pdf)
+
+<br>
 
 ### Math Review Resources 
 
