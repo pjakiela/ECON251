@@ -1,7 +1,7 @@
 # Lecture Outlines
 
 1. [What Is Economics?](1-math-review-notes-2022-09-10.pdf)   
-2. [Budget Sets](2-budget-set-notes-2022-09-14.pdf)  
+2. [Budget Sets](2-budget-sets-notes-2022-09-14.pdf)  
 3. Demand Functions  
 4. Preferences & Utility  
 5. Utility Maximization  
