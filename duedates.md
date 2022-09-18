@@ -9,7 +9,7 @@ assignments are due on Sundays.  Assignments are due by 11:00 PM._
 | September 11 | Reading:  [_The Economic Approach to Human Behavior_, Chapter 1](https://www.gradescope.com/courses/432869/assignments/2243726/) |
 | September 16 | [Problem Set 1](https://www.gradescope.com/courses/432869/assignments/2241937/) |
 | September 18 | Reading:  ["Giffen Behavior and Subsistence Consumption"](https://www.gradescope.com/courses/432869/assignments/2257941/) |
-| September 23 | Problem Set 2 |
+| September 23 | [Problem Set 2](https://www.gradescope.com/courses/432869/assignments/2267747/) |
 | September 30 | Problem Set 3 |
 | October 2 | Modeling Exercise 1 |
 | October 7 | Problem Set 4 |
