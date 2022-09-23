@@ -25,6 +25,6 @@ Angus Deaton and John Muellbauer, Section 1.2
 
 ### Lecture  
 
-[Demand Functions](3-demand-function-notes-2022-09-16.pdf)
+[Demand Functions](3-demand-function-notes-2022-09-19.pdf)
 
 
