@@ -2,7 +2,7 @@
 
 1. [What Is Economics?](1-math-review-notes-2022-09-10.pdf)   
 2. [Budget Sets](2-budget-sets-notes-2022-09-14.pdf)  
-3. Demand Functions  
+3. [Demand Functions](3-demand-function-notes-2022-09-19.pdf)  
 4. Preferences & Utility  
 5. Utility Maximization  
 6. Labor Supply  
