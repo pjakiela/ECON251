@@ -10,7 +10,7 @@ assignments are due on Sundays.  Assignments are due by 11:00 PM._
 | September 16 | [Problem Set 1](https://www.gradescope.com/courses/432869/assignments/2241937/) |
 | September 18 | Reading:  ["Giffen Behavior and Subsistence Consumption"](https://www.gradescope.com/courses/432869/assignments/2257941/) |
 | September 23 | [Problem Set 2](https://www.gradescope.com/courses/432869/assignments/2267747/) |
-| September 30 | Problem Set 3 |
+| September 30 | [Problem Set 3](https://www.gradescope.com/courses/432869/assignments/2292671/) |
 | October 2 | Modeling Exercise 1 |
 | October 7 | Problem Set 4 |
 | October 14 | Problem Set 5 |
