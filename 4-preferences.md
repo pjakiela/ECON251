@@ -11,5 +11,5 @@ Martin J. Osborne and Ariel Rubinstein, Section 1.1 and Sections 4.2-4.5
 
 ### Lecture  
 
-Preferences and Utility
+[Preferences and Utility](4-preferences-notes-2022-10-01.pdf)
 
