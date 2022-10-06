@@ -9,8 +9,8 @@
 | September 21 | [Demand Funtions, Part 2](https://pjakiela.github.io/ECON251/3-demand.html) |
 | September 26 | [Preferences & Utility, Part 1](https://pjakiela.github.io/ECON251/4-preferences.html) |
 | September 28 | [Preferences & Utility, Part 2](https://pjakiela.github.io/ECON251/4-preferences.html) |
-| October 3 | Utility Maximization, Part 1 |
-| October 5 | Utility Maximization, Part 2 |
+| October 3 | [Utility Maximization, Part 1](https://pjakiela.github.io/ECON251/5-maximization.html) |
+| October 5 | [Utility Maximization, Part 2](https://pjakiela.github.io/ECON251/5-maximization.html) |
 | **October 10** | **Reading Period:  NO CLASS** |
 | October 12 | Labor Supply |
 | **October 17** | **Exam Review** |
