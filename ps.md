@@ -5,7 +5,7 @@ _Problem sets are due by 11:00 PM on Fridays.  Solutions are not distributed in 
 [Problem Set 1](ECON251-ps1.pdf) (due 9/16)  
 [Problem Set 2](ECON251-ps2-2022-09-14.pdf) (due 9/23)  
 [Problem Set 3](ECON251-ps3-2022-09-25.pdf)  (due 9/30)  
-[Problem Set 4](ECON251-ps4-2022-09-29.pdf)  (due 10/9)  
+[Problem Set 4](ECON251-ps4-2022-09-29.pdf)  (due 10/11)  
 [Problem Set 5](ECON251-ps5-2022-09-29.pdf)  (due 10/14)  
 Problem Set 6  
 Problem Set 7  
