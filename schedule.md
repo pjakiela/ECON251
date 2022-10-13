@@ -12,7 +12,7 @@
 | October 3 | [Utility Maximization, Part 1](https://pjakiela.github.io/ECON251/5-maximization.html) |
 | October 5 | [Utility Maximization, Part 2](https://pjakiela.github.io/ECON251/5-maximization.html) |
 | **October 10** | **Reading Period:  NO CLASS** |
-| October 12 | Labor Supply |
+| October 12 | [Labor Supply](https://pjakiela.github.io/ECON251/6-labor-supply.html) |
 | **October 17** | **Exam Review** |
 | **October 19-20** | **Take-Home Exam 1:  NO CLASS** |
 | October 24 | Revealed Preference |
