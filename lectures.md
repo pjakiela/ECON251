@@ -4,7 +4,7 @@
 2. [Budget Sets](2-budget-sets-notes-2022-09-14.pdf)  
 3. [Demand Functions](3-demand-function-notes-2022-09-19.pdf)  
 4. [Preferences & Utility](4-preferences-notes-2022-10-01.pdf)  
-5. [Utility Maximization](5-utility-maxing-notes-2022-10-03.pdf)   
+5. [Utility Maximization](5-utility-maxing-notes-2022-10-06.pdf)   
 6. [Labor Supply](6-labor-supply-notes-2022-10-12.pdf)  
 7. Revealed Preference  
 8. Expected Utility  
