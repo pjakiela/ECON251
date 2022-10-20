@@ -14,15 +14,15 @@ _Reading packets will be handed out in class._
 
 ### [The Distributional Preferences of an Elite](https://www.jstor.org/stable/24749332)
 
-- Reading Guide
-- Comprehension questions (due 10/23)
+- [Reading Guide](ECON251-FJKM-reading-guide-2022-10-19.pdf)
+- Reading Response (due 10/23)
 
 ### [Paying Not to Go to the Gym](https://www.jstor.org/stable/30034067)
 
 - Reading Guide
-- Comprehension questions (due 10/30)
+- Reading Response (due 10/30)
 
 ### [The Market for Lemons](https://www.jstor.org/stable/1879431)
 
 - Reading Guide
-- Comprehension questions (due 11/20)
+- Reading Response (due 11/20)
