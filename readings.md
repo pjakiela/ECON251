@@ -10,12 +10,12 @@ _Reading packets will be handed out in class._
 ### [Giffen Behavior and Subsistence Consumption](https://www.jstor.org/stable/29730133)
 
 - [Reading Guide](ECON251-Jensen-Miller-reading-guide-2022-09-09.pdf)
-- Reading Response (due 9/18)
+- [Reading Response](https://www.gradescope.com/courses/432869/assignments/2257941/) (due 9/18)
 
 ### [The Distributional Preferences of an Elite](https://www.jstor.org/stable/24749332)
 
 - [Reading Guide](ECON251-FJKM-reading-guide-2022-10-19.pdf)
-- Reading Response (due 10/23)
+- [Reading Response](https://www.gradescope.com/courses/432869/assignments/2368898/) (due 10/23)
 
 ### [Paying Not to Go to the Gym](https://www.jstor.org/stable/30034067)
 
