@@ -15,10 +15,10 @@
 | October 12 | [Labor Supply](https://pjakiela.github.io/ECON251/6-labor-supply.html) |
 | **October 17** | **Exam Review** |
 | **October 19-20** | **Take-Home Exam 1:  NO CLASS** |
-| October 24 | Revealed Preference |
-| October 26 | Risk Attitudes |
-| October 31 | Risk Attitudes / Intertemporal Tradeoffs |
-| November 2 | Intertemporal Tradeoffs |
+| October 24 | [Revealed Preference](https://pjakiela.github.io/ECON251/7-revealed-preference.html) |
+| October 26 | [Risk Attitudes](https://pjakiela.github.io/ECON251/8-risk-prefs.html) |
+| October 31 | [Risk Attitudes](https://pjakiela.github.io/ECON251/8-risk-prefs.html) / [Intertemporal Tradeoffs](https://pjakiela.github.io/ECON251/9-time-prefs.html) |
+| November 2 | [Intertemporal Tradeoffs](https://pjakiela.github.io/ECON251/9-time-prefs.html) |
 | November 7 | Production, Part 1 |
 | November 9 | Production, Part 2 |
 | November 14 | Monopoly |
