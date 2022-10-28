@@ -19,8 +19,8 @@ _Reading packets will be handed out in class._
 
 ### [Paying Not to Go to the Gym](https://www.jstor.org/stable/30034067)
 
-- Reading Guide
-- Reading Response (due 10/30)
+- [Reading Guide](ECON251-gym-reading-guide-2022-10-27.pdf)
+- [Reading Response](https://www.gradescope.com/courses/432869/assignments/2392866/) (due 11/4)
 
 ### [The Market for Lemons](https://www.jstor.org/stable/1879431)
 
