@@ -18,7 +18,7 @@ assignments are due on Sundays.  Assignments are due by 11:00 PM._
 | October 23 | [Reading:  "The Distributional Preferences of an Elite"](https://www.gradescope.com/courses/432869/assignments/2368898/) |
 | November 2 | [Problem Set 6](https://www.gradescope.com/courses/432869/assignments/2382330/) |
 | November 4 | [Reading:  "Paying Not to Go to the Gym"](https://www.gradescope.com/courses/432869/assignments/2392866/) |
-| November 6 | Problem Set 7 |
+| November 6 | [Problem Set 7](https://www.gradescope.com/courses/432869/assignments/2404059/) |
 | November 11 | Problem Set 8 |
 | November 18 | Problem Set 9 |
 | November 20 | Reading:  "The Market for Lemons" |
