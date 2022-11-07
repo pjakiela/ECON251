@@ -4,4 +4,4 @@
 
 ### Lecture  
 
-Expected Utility (to be posted after lecture)
+[Expected Utility](EU-notes-2022-11-01.pdf)  
