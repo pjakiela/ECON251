@@ -24,5 +24,5 @@ _Reading packets will be handed out in class._
 
 ### [The Market for Lemons](https://www.jstor.org/stable/1879431)
 
-- Reading Guide
-- Reading Response (due 11/20)
+- [Reading Guide](ECON251-lemons-reading-guide-2022-11-10.pdf)
+- [Reading Response](https://www.gradescope.com/courses/432869/assignments/2429596/) (due 11/20)
