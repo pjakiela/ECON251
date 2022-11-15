@@ -20,8 +20,8 @@ assignments are due on Sundays.  Assignments are due by 11:00 PM._
 | November 4 | [Reading:  "Paying Not to Go to the Gym"](https://www.gradescope.com/courses/432869/assignments/2392866/) |
 | November 6 | [Problem Set 7](https://www.gradescope.com/courses/432869/assignments/2404059/) |
 | November 11 | [Problem Set 8](https://www.gradescope.com/courses/432869/assignments/2421764/) |
-| November 18 | Problem Set 9 |
-| November 20 | Reading:  "The Market for Lemons" |
+| November 18 | [Problem Set 9](https://www.gradescope.com/courses/432869/assignments/2441007/) |
+| November 20 | [Reading:  "The Market for Lemons"](https://www.gradescope.com/courses/432869/assignments/2429596/) |
 | November 22 | Problem Set 10 |
 | November 30 | Modeling Exercise 2 |
 | December 2 | Problem Set 11 (optional) |
