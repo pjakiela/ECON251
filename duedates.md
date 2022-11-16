@@ -23,7 +23,7 @@ assignments are due on Sundays.  Assignments are due by 11:00 PM._
 | November 18 | [Problem Set 9](https://www.gradescope.com/courses/432869/assignments/2441007/) |
 | November 20 | [Reading:  "The Market for Lemons"](https://www.gradescope.com/courses/432869/assignments/2429596/) |
 | November 22 | Problem Set 10 |
-| November 30 | Modeling Exercise 2 |
+| November 30 | [Modeling Exercise 2](https://www.gradescope.com/courses/432869/assignments/2442897/) |
 | December 2 | Problem Set 11 (optional) |
 | **December 7-8** | **Take-Home Exam 2** |
 | December 15 | Modeling Exercise 3 (optional) |
