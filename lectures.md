@@ -9,8 +9,6 @@
 7. [Revealed Preference](7-revealed-pref-handout.pdf)  
 8. [Expected Utility](EU-notes-2022-11-02.pdf)  
 9. [Intertemporal Tradeoffs](9-time-notes-2022-11-09.pdf)  
-10. Production  
-11. Monopoly  
-12. Competitive Equilibrium  
-13. Imperfect Information  
-14. Game Theory  
+10. [Production](production-notes-2022-11-15.pdf)  
+11. Equilibrium   
+12. Game Theory  
