@@ -16,16 +16,15 @@
 | **October 17** | **Exam Review** |
 | **October 19-20** | **Take-Home Exam 1:  NO CLASS** |
 | October 24 | [Revealed Preference](https://pjakiela.github.io/ECON251/7-revealed-preference.html) |
-| October 26 | [Risk Attitudes](https://pjakiela.github.io/ECON251/8-risk-prefs.html) |
-| October 31 | [Risk Attitudes](https://pjakiela.github.io/ECON251/8-risk-prefs.html) / [Intertemporal Tradeoffs](https://pjakiela.github.io/ECON251/9-time-prefs.html) |
-| November 2 | [Intertemporal Tradeoffs](https://pjakiela.github.io/ECON251/9-time-prefs.html) |
-| November 7 | Production, Part 1 |
-| November 9 | Production, Part 2 |
-| November 14 | Monopoly |
-| November 16 | Competitive Equilibrium | 
-| November 21 | Imperfect Information |
+| October 31 | [Risk Attitudes](https://pjakiela.github.io/ECON251/8-risk-prefs.html) |
+| November 2 | [Risk Attitudes](https://pjakiela.github.io/ECON251/8-risk-prefs.html) / [Intertemporal Tradeoffs](https://pjakiela.github.io/ECON251/9-time-prefs.html) |
+| November 7 | [Intertemporal Tradeoffs](https://pjakiela.github.io/ECON251/9-time-prefs.html) |
+| November 9 | [Intertemporal Tradeoffs](https://pjakiela.github.io/ECON251/9-time-prefs.html) |
+| November 14 | [Production](https://pjakiela.github.io/ECON251/10-production.html) |
+| November 16 | [Production](https://pjakiela.github.io/ECON251/10-production.html) | 
+| November 21 | [Monopoly and Equilibrium](https://pjakiela.github.io/ECON251/11-monopoly.html) |
 | **November 22** | **Thanksgiving:  NO CLASS** |
-| November 28 | Game Theory, Part 1 |
-| November 30 | Game Theory, part 2 | 
+| November 28 | [Game Theory, Part 1](https://pjakiela.github.io/ECON251/12-games.html) |
+| November 30 | [Game Theory, part 2](https://pjakiela.github.io/ECON251/12-games.html) | 
 | **December 5** | **Exam Review** |
 | **December 7-8** | **Take-Home Exam 2:  NO CLASS** |
