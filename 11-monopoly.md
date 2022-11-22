@@ -11,4 +11,4 @@ Martin J. Osborne and Ariel Rubinstein, Chapter 7
 
 ### Lecture  
 
-Monopoly
+[Monopoly](monopoly-notes-2022-11-20.pdf)  
