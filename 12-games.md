@@ -10,4 +10,4 @@ _Game Theory for Applied Economists_ by Robert Gibbons, Chapters 1 and 2 (availa
 
 ### Lecture  
 
-Game Theory  
+[Game Theory](games-notes-2022-11-30.pdf)  
