@@ -10,5 +10,5 @@
 8. [Expected Utility](EU-notes-2022-11-02.pdf)  
 9. [Intertemporal Tradeoffs](9-time-notes-2022-11-09.pdf)  
 10. [Production](production-notes-2022-11-15.pdf)  
-11. Equilibrium   
-12. Game Theory  
+11. [Monopoly and Equilibrium](monopoly-notes-2022-11-20.pdf)   
+12. [Game Theory](games-notes-2022-11-30.pdf)  
