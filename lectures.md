@@ -7,7 +7,7 @@
 5. [Utility Maximization](5-utility-maxing-notes-2022-10-06.pdf)   
 6. [Labor Supply](6-labor-supply-notes-2022-10-12.pdf)  
 7. [Revealed Preference](7-revealed-pref-handout.pdf)  
-8. [Expected Utility](EU-notes-2022-11-02.pdf)  
+8. [Expected Utility](EU-notes-2022-11-01.pdf)  
 9. [Intertemporal Tradeoffs](9-time-notes-2022-11-09.pdf)  
 10. [Production](production-notes-2022-11-15.pdf)  
 11. [Monopoly and Equilibrium](monopoly-notes-2022-11-20.pdf)   
